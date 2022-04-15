@@ -1,3 +1,3 @@
-## Personal Website using HTML
+## Personal Website using HTML and CSS
 
-This is a simple website containing general information about me, made using HTML and CSS.
+This is a simple portfolio website, made using HTML and CSS.
